@@ -25,7 +25,7 @@ A web-based expense tracking application built using Spring Boot.
 1. Clone the repo
 2. Open in STS
 3. Run the application
-4. Open: http://localhost:8080
+4. Open: http://localhost:8447
 
 ## 📌 Future Improvements
 - User login system
